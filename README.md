@@ -1,4 +1,5 @@
 # node_chat  
+Ссылка на heroku: http://node-chat-roman.herokuapp.com/  
 Костяк проекта:  
 bulma.css  
 socket.io  
