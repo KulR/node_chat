@@ -1,0 +1,25 @@
+.mes_single {
+    padding: 5px;
+    /* background: black; */
+    border-radius: 4px;
+}
+
+.mes_single span {
+    font-weight: bold;
+}
+
+#feedback {
+    max-height: 600px;
+    height: 400px;
+    overflow: scroll;
+    border: 2px solid black;
+    padding: 5px 20px;
+}
+
+#feedback h5 {
+    margin-bottom: 5px;
+}
+
+.background-orange {
+    background-color: orange;
+}
